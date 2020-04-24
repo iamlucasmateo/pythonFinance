@@ -1,2 +1,2 @@
-# pythonFinance
-Financial Analysis and Applications, in Python
+# Financial Analysis and Applications, in Python
+
